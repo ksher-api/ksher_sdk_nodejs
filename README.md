@@ -1,6 +1,6 @@
  
 # Ksher SDK nodejs
-[![Node.js Package](https://github.com/ksher-solutions/ksher_sdk_nodejs/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/ksher-solutions/ksher_sdk_nodejs/actions/workflows/npm-publish.yml)
+[![Node.js Package](https://github.com/ksher-api/ksher_sdk_nodejs/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/ksher-api/ksher_sdk_nodejs/actions/workflows/npm-publish.yml)
 [![Version](https://img.shields.io/npm/v/@kshersolution/ksher)](https://www.npmjs.com/package/@kshersolution/ksher)
 
 This project is SDK for NodeJs. API Document Please check document at http://api.ksher.net
@@ -13,7 +13,7 @@ Java: https://github.com/ksher-api/ksher-sdk/tree/master/java
 
 [![Version](https://img.shields.io/pypi/v/ksher)](https://pypi.org/project/ksher/)
 
-Python: https://github.com/ksher-solutions/ksher_sdk_python
+Python: https://github.com/ksher-api/ksher_sdk_python
 
 Go: https://github.com/ksher-api/ksher-sdk/tree/master/go
 
@@ -23,7 +23,7 @@ Netcore: https://github.com/ksher-api/ksher-sdk/tree/master/netcore
 
 [![Version](https://img.shields.io/npm/v/@kshersolution/ksher)](https://www.npmjs.com/package/@kshersolution/ksher)
 
-NodeJs: https://github.com/ksher-solutions/ksher_sdk_nodejs
+NodeJs: https://github.com/ksher-api/ksher_sdk_nodejs
 
 
 ## How to install SDK
