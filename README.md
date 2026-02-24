@@ -5,7 +5,7 @@
 
 This project is SDK for NodeJs. API Document Please check document at http://api.ksher.net
 
-You can check [npm SDK NodeJs](https://www.npmjs.com/package/@kshersolution/ksher) or visit [Github ksher_demo_nodejs repo](https://github.com/ksher-solutions/ksher_demo_nodejs) for check example create on NodeJs.
+You can check [npm SDK NodeJs](https://www.npmjs.com/package/@kshersolution/ksher) or visit [Github ksher_demo_nodejs repo](https://github.com/ksher-api/ksher_demo_nodejs) for check example create on NodeJs.
 
 Another SDK please check at
 
@@ -44,7 +44,7 @@ npm install @kshersolution/ksher
 or clone from
 
 ```shell
-git clone https://github.com/ksher-solutions/ksher_sdk_nodejs
+git clone https://github.com/ksher-api/ksher_sdk_nodejs
 ```
 
 ## using SDK
