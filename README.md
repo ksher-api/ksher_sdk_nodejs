@@ -101,7 +101,7 @@ const gateway_payRequestData = {
   "mch_redirect_url_fail":"https://www.google.comapi/gateway_pay/fail",
   "mch_notify_url":"https://www.google.com/api/gateway_pay/notify_url/",
   "product_name": mch_order_no,
-  "channel_list":"promptpay,linepay,airpay,truemoney,atome,card,ktc_instal,kbank_instal,kcc_instal,kfc_instal,scb_easy,bbl_deeplink,baybank_deeplink,kplus,alipay,wechat,card,ktc_instal,kbank_instal,kcc_instal,kfc_instal",
+  "channel_list":"card,ktc_instal,kbank_instal,kcc_instal,kfc_instal,promptpay,scb_easy,bbl_deeplink,baybank_deeplink,kplus,scb_qrcard,linepay,truemoney,airpay,atome,alipay,wechat",
   "lang":"en"
 };
 await sdk.gateway_pay(gateway_payRequestData)
