@@ -1,14 +1,24 @@
 {
   "name": "@kshersolution/ksher",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Ksher Node.js Library at http://api.ksher.net",
   "main": "src/sdk.js",
+  "files": [
+    "src",
+    "readme.md",
+    "LICENSE"
+  ],
   "directories": {
     "src": "src",
     "test": "test"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "preversion": "npm test",
+    "postversion": "git push && git push --tags"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "repository": {
     "type": "git",
